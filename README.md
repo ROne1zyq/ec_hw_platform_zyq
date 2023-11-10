@@ -1,0 +1,1 @@
+# ec_hw_platform_zyq
