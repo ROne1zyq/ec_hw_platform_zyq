@@ -1,3 +1,0 @@
-C:/Users/Ricky/CLionProjects/ec_hw_platform/cmake-build-debug/CMakeFiles/ec_hw_platform.elf.dir
-C:/Users/Ricky/CLionProjects/ec_hw_platform/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Ricky/CLionProjects/ec_hw_platform/cmake-build-debug/CMakeFiles/rebuild_cache.dir
